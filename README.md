@@ -2,10 +2,10 @@
 
 
 :computer: Trabajando en CoreBI - Big Data & Analytics </br>
-:books: Estudiando Ingeniera Industrial en UTN
-:snake: Subo casos de uso en Python - Machine Learning Aplicada
-:tennis: Me encanta jugar al Paddle
-:cinema: Mi serie favorita es Black Mirror
+:books: Estudiando Ingeniera Industrial en UTN </br>
+:snake: Subo casos de uso en Python - Machine Learning Aplicada </br>
+:tennis: Me encanta jugar al Paddle </br>
+:cinema: Serie favorita: Black Mirror </br>
 
 <!--
 **pessalucas/pessalucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
