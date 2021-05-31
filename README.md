@@ -5,7 +5,7 @@
 :books: Estudio Ingeniera Industrial en UTN </br>
 :snake: <a href="https://github.com/pessalucas/PythonCases"> Subo casos de uso en Python - Machine Learning aplicada </a></br>
 :tennis: Me encanta el Paddle </br>
-:cinema: Mi serie favorita: Black Mirror </br>
+:cinema: Mi serie favorita es Black Mirror </br>
 
 <!--
 **pessalucas/pessalucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
