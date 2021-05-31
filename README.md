@@ -1,11 +1,11 @@
 ### Hola 👋
 
 
-:computer: Trabajando en <a href="https://corebi.com.ar/" target="_blank">CoreBI - Data & Analytics</a> </br>
-:books: Estudiando Ingeniera Industrial en UTN </br>
+:computer: Consultor BI en <a href="https://corebi.com.ar/" target="_blank">CoreBI - Data & Analytics</a> </br>
+:books: Estudiante de Ingeniera Industrial en UTN </br>
 :snake: <a href="https://github.com/pessalucas/PythonCases"> Subo casos de uso en Python - Machine Learning aplicada </a></br>
-:tennis: Jugando al Paddle </br>
 :cinema: Serie favorita: Black Mirror </br>
+:tennis: Paddle </br>
 
 <!--
 **pessalucas/pessalucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
