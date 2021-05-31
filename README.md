@@ -4,7 +4,7 @@
 :computer: Soy Consultor BI en <a href="https://corebi.com.ar/" target="_blank">CoreBI - Data & Analytics</a> </br>
 :books: Estudio de Ingeniera Industrial en UTN </br>
 :snake: <a href="https://github.com/pessalucas/PythonCases"> Subo casos de uso en Python - Machine Learning aplicada </a></br>
-:cinema: Serie favorita: Black Mirror </br>
+:cinema: Mi serie favorita: Black Mirror </br>
 :tennis: Me encanta el Paddle </br>
 
 <!--
