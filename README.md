@@ -3,7 +3,7 @@
 
 :computer: Trabajando en CoreBI - Big Data & Analytics </br>
 :books: Estudiando Ingeniera Industrial en UTN </br>
-:snake: Subo casos de uso en Python - Machine Learning Aplicada </br>
+:snake: <a href="https://github.com/pessalucas/PythonCases"> Subo casos de uso en Python - Machine Learning aplicada </a> (100% español) </br>
 :tennis: Me encanta jugar al Paddle </br>
 :cinema: Serie favorita: Black Mirror </br>
 
