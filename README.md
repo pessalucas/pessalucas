@@ -1,7 +1,7 @@
 ### Hola 👋
 
 
-:computer: Trabajando en CoreBI - Big Data & Analytics
+:computer: Trabajando en CoreBI - Big Data & Analytics </br>
 :books: Estudiando Ingeniera Industrial en UTN
 :snake: Subo casos de uso en Python - Machine Learning Aplicada
 :tennis: Me encanta jugar al Paddle
