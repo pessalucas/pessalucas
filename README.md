@@ -4,8 +4,8 @@
 :computer: Soy Consultor BI en <a href="https://corebi.com.ar/" target="_blank">CoreBI - Data & Analytics</a> </br>
 :books: Estudio Ingeniera Industrial en UTN </br>
 :snake: <a href="https://github.com/pessalucas/PythonCases"> Subo casos de uso en Python - Machine Learning aplicada </a></br>
-:tennis: Jugador de Paddle frustrado </br>
-:cinema: Serie favorita: Black Mirror </br>
+:tennis: Me encanta jugar al Paddle </br>
+:cinema: Mi serie favorita es Black Mirror </br>
 
 <!--
 **pessalucas/pessalucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
