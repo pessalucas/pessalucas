@@ -1,7 +1,7 @@
 ### Hola 👋
 
 
-:computer: Soy Consultor BI en <a href="https://corebi.com.ar/" target="_blank">CoreBI - Data & Analytics</a> </br>
+:computer: Soy Data Scientist en <a href="https://corebi.com.ar/" target="_blank">CoreBI - Data & Analytics</a> </br>
 :books: Estudio Ingeniera Industrial en UTN </br>
 :snake: <a href="https://github.com/pessalucas/PythonCases"> Subo casos de uso en Python - Machine Learning aplicada </a></br>
 :tennis: Me encanta jugar al Paddle </br>
