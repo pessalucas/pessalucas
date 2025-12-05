@@ -2,7 +2,7 @@
 
 
 :computer: Soy Data Scientist en <a href="https://www.mercadolibre.com.ar" target="_blank">Meli</a> </br>
-:books: Estudio Ingeniera Industrial en UTN </br>
+:books: Formacion de Ingeniera Industrial en UTN y realizando una Maestria en Data Science en Austral Actualmente</br>
 :snake: <a href="https://github.com/pessalucas/PythonCases"> Subo casos de uso en Python - Machine Learning aplicada </a></br>
 :tennis: Me encanta jugar al Paddle </br>
 :cinema: Mi serie favorita es Black Mirror </br>
